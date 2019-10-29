@@ -28,4 +28,8 @@
 
 1. [xeno-canto](https://www.xeno-canto.org/) - The largest library of recorded bird sounds 
 2. [urbansound8k](https://urbansounddataset.weebly.com/urbansound8k.html) - Nearly 8,000 audio files with urban sounds. Check the publications tab
+
+# Other
+
+1. [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
  
