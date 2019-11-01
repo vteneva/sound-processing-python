@@ -24,6 +24,11 @@
 
 ## Papers
 1. [Acoustic Scene Classification](https://arxiv.org/pdf/1808.02357.pdf)
+2. [Lee T, Theunissen F. 2015 A
+single microphone noise reduction algorithm
+based on the detection and reconstruction of
+spectro-temporal features.Proc. R. Soc. A 471:
+20150309](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2015.0309)
 
 ## Others
 1. [Jon Nordby master's thesis on audio classification with CNN](https://github.com/jonnor/ESC-CNN-microcontroller) (video no. 5)
